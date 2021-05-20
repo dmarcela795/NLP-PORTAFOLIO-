@@ -28,4 +28,4 @@ Taller 12: En este proyecto trabajé con análisis de sentimientos.
 
 Si estás interesado en mi trabajo, visita mi perfil de linkedin:
 
-(https://www.linkedin.com/in/diana-marcela-g%C3%B3mez-a8828b195/)
+https://www.linkedin.com/in/diana-marcela-g%C3%B3mez-a8828b195/
