@@ -1,7 +1,7 @@
 # NLP-PORTAFOLIO-
 
 Mi nombre es Diana Marcela Gómez. Durante este año 2021 he estado haciendo diferentes proyectos de Lenguaje de Procesamiento natural, en los que trabajé diferentes temas específicos. A continuación menciono cada uno de los proyectos realizados junto con el tema que se trabajó (el trabajo completo se encuentra en Mi Git Hub):
-Proyectos
+
 
 [Perro](https://github.com/dmarcela795/NLP-PORTAFOLIO-DIANA/blob/main/perro.jpg): Subí una foto de un perro a Git Hub
 
@@ -23,7 +23,7 @@ Proyectos
 
 [Taller 11](https://github.com/dmarcela795/NLP-PORTAFOLIO-DIANA/blob/main/taller11%20(ok).ipynb): Trabajé con mensajes de Twitter
 
-[Taller 12](): En este proyecto trabajé con análisis de sentimientos.
+[Taller 12](https://github.com/dmarcela795/NLP-PORTAFOLIO-DIANA/blob/main/taller12%20(ok).ipynb): En este proyecto trabajé con análisis de sentimientos.
 
 [Plan de proyecto final](https://github.com/dmarcela795/NLP-PORTAFOLIO-DIANA/blob/main/Proyecto%20Final%20(ok).docx): Realicé un escrito acerca del proyecto final de la materia.
 
