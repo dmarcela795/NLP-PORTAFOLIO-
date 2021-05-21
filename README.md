@@ -5,7 +5,7 @@ Proyectos
 
 Perro: Subí una foto de un perro a Git Hub
 
-Taller 2: En este proyecto trabajé acerca de la Adquisición de textos, que es el primer paso en NLP.
+[Taller 2](https://github.com/dmarcela795/NLP-PORTAFOLIO-DIANA/blob/main/TAREA%202.ipynb): En este proyecto trabajé acerca de la Adquisición de textos, que es el primer paso en NLP.
 
 Taller 3: Aquí trabajé Web Scraping.
 
