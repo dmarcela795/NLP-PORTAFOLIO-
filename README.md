@@ -27,7 +27,7 @@ Mi nombre es Diana Marcela Gómez. Durante este año 2021 he estado haciendo dif
 
 [Plan de proyecto final](https://github.com/dmarcela795/NLP-PORTAFOLIO-DIANA/blob/main/Proyecto%20Final%20(ok).docx): Realicé un escrito acerca del proyecto final de la materia.
 
-[Proyecto final](https://github.com/dmarcela795/NLP-PORTAFOLIO-DIANA/blob/main/Proyecto_NPL.ipynb): Presento el proyecto final :D
+[Proyecto final](https://github.com/dmarcela795/NLP-PORTAFOLIO-DIANA/blob/main/Proyecto_NPL%20(1).ipynb): Presento el proyecto final :D
 
 
 Si estás interesado en mi trabajo, visita mi perfil de [linkedin](https://www.linkedin.com/in/diana-marcela-g%C3%B3mez-a8828b195/).
